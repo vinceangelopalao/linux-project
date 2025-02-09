@@ -16,6 +16,4 @@ This project demonstrates how to explore and manage file and directory permissio
 ## Getting Started
 To begin using the project, clone the repository and follow the steps in the documentation to explore file permissions on your local system.
 
-### Clone the repository
-
-sadasd
+### Clone the repository:
