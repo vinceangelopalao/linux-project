@@ -1,7 +1,7 @@
 # Linux Project - File Permissions
 
 ## Project Overview
-This project demonstrates how to explore and manage file and directory permissions in Linux using various commands. The goal is to improve security and enforce appropriate access controls based on project requirements.
+In this project, I learned how to check and change file and folder permissions in Linux using different commands. My goal was to make files more secure and control who can access them.
 
 ## Technologies Used
 - Linux Commands (e.g., `chmod`, `chown`, `ls`)
