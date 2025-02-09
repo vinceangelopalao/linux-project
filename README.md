@@ -12,8 +12,3 @@ This project demonstrates how to explore and manage file and directory permissio
 - **Modifying file permissions**: Using `chmod` to update file permissions for different users.
 - **Changing hidden file permissions**: Modifying permissions for hidden files.
 - **Directory permissions**: Adjusting permissions for specific users and groups.
-
-## Getting Started
-To begin using the project, clone the repository and follow the steps in the documentation to explore file permissions on your local system.
-
-### Clone the repository:
